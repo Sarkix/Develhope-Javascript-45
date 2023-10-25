@@ -1,2 +1,5 @@
-# Develhope-Javascript-45
-Ejercicio 45 de JavaScript del curso Develhope.  DOM 1.
+# DOM
+
+Get the value of the `firstName` text input field and print it in the console.
+
+Use the `id` as selector.
